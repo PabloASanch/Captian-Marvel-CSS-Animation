@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href="https://pabloasanch.github.io/Captian-Marvel-CSS-Animation/"><img src="https://github.com/PabloASanch/Captian-Marvel-CSS-Animation/blob/main/iconmarvel.avif"></img></a>
+  <a href="https://pabloasanch.github.io/Captian-Marvel-CSS-Animation/"><img height="50" src="https://github.com/PabloASanch/Captian-Marvel-CSS-Animation/blob/main/iconmarvel.avif"></img></a>
   <br>
   Captian Marvel CSS Animation
   <br>
